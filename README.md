@@ -1,1 +1,1 @@
-# projeto-portifolio-roccketseat
+# projeto-portifolio-rocketseat
